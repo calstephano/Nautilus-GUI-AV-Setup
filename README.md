@@ -12,7 +12,7 @@ This project builds on modifications of [this Nautilus GUI setup tutorial](https
 **Note:** The pod automatically closes every 6 hours and you will need to redo steps 2 and 3 every time it closes.
 
 ### 1. Replace Placeholder Names
-Open all the files and replace all instances of `INITIALS` to your initials. In the (`gui_setup.sh`) file, you can edit the default password `1234` as well.
+Open all the files and replace all instances of `INITIALS` to your initials (must be lowercase). In the (`gui_setup.sh`) file, you can edit the default password `1234` as well.
 
 ### 2. Run the GUI Setup Script
 Next, in your local terminal, run the provided script, `gui_setup.sh`.
