@@ -1,5 +1,9 @@
 # Nautilus GUI & AV Simulator Setup
 
+![Status](https://img.shields.io/badge/Status-Complete-yellowgreen) ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Kubernetes-blue?logo=linux) ![Shell Script](https://img.shields.io/badge/Bash-Script-yellow?logo=gnubash) ![Simulators](https://img.shields.io/badge/Simulators-CARLA%20%7C%20VISTA-orange) ![Lab](https://img.shields.io/badge/Associated%20Lab-AIEA-red)
+
+## Overview 
+
 This guide provides instructions for setting up a graphical user interface (GUI) environment on Nautilus with an autonomous vehicle (AV) simulator of your choice. Designed for use at [Professor Gilpin's AIEA lab at UCSC](https://aiea-lab.github.io/), it assumes you have already installed Kubernetes and got added to the AIEA Namespace
 
 This project builds on modifications of [this Nautilus GUI setup tutorial](https://github.com/richard-dao/Nautilus-GUI), and [this CARLA setup tutorial](https://github.com/cruz-control/nautilus/blob/main/sample-nautilus-desktop-gui/carla_setup.sh).
